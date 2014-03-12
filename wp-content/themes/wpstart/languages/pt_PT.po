@@ -1,0 +1,157 @@
+# Translation of WPstart in European Portuguese
+# This file is distributed under the same license as the WPstart package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-07-31 19:17+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: WPstart\n"
+"POT-Creation-Date: \n"
+"Last-Translator: krusze.pl <kontakt@krusze.pl>\n"
+"Language-Team: \n"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Arquivo diário: <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Arquivo mensal: <span>%s</span>"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Arquivo anual: <span>%s</span>"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Artigos mais recentes <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Artigos mais antigos"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuar a ler <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Sidebar 1"
+msgstr "Barra lateral 1"
+
+msgid "Sidebar 2"
+msgstr "Barra lateral 2"
+
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+msgid "Footer 4"
+msgstr "Rodapé 4"
+
+msgid "Colophon"
+msgstr ""
+
+msgid "Tag Archives: %s"
+msgstr "Arquivo de etiquetas: %s"
+
+msgid "Protected Comments: Please enter your password to view comments."
+msgstr "Comentários protegidos: introduza a sua senha para ver os comentários."
+
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Uma resposta a %2$s"
+msgstr[1] "%1$s respostas a %2$s"
+
+msgid "Comments (RSS)"
+msgstr "RSS Comentários"
+
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Comentários Mais Antigos"
+
+msgid "Newer Comments &raquo;"
+msgstr "Comentários mais recentes &raquo;"
+
+msgid "Comments are closed."
+msgstr "Os comentários estao fechados."
+
+msgid "Navigation Menu"
+msgstr "Menu de navegação"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+msgid "Original dimensions"
+msgstr "Tamanho Original"
+
+msgid "Link to image"
+msgstr "Link para a Imagem"
+
+msgid "(Edit)"
+msgstr "(Editar)"
+
+msgid "Published on:"
+msgstr "Publicado em:"
+
+msgid "Author:"
+msgstr "Autor:"
+
+msgid "View posts by this author"
+msgstr "Ver artigos deste autor"
+
+msgid "Leave a comment"
+msgstr "Deixe o seu comentário"
+
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+msgid "% Comments"
+msgstr "% Comentários"
+
+msgid "&larr; Back to %s"
+msgstr "&larr; Voltar a %s"
+
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+msgid "Powered by WordPress"
+msgstr "Criado com WordPress"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Posts by %s"
+msgstr "Artigos de %s"
+
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Está a visualizar o arquivo da categoria %s."
+
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultados da pesquisa por &#8220;%s&#8221;"
+
+msgid "Archives"
+msgstr "Arquivo"
+
+msgid "No posts found."
+msgstr "Nao foram encontrados artigos."
+
+msgid "Search"
+msgstr "Procurar"
+
+msgid "Sorry, no posts matched your criteria."
+msgstr "Não existem artigos que correspondam ao seu critério."
+
+msgid "Pages:"
+msgstr "Páginas:"
+
+msgid "Permalink: "
+msgstr "Ligação permanente: "
+
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+msgid "Next &raquo;"
+msgstr "Seguinte &raquo;"
+

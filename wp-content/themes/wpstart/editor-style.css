@@ -1,0 +1,200 @@
+/*
+Theme Name: WPstart
+Description: Used to style the TinyMCE editor.
+*/
+
+html .mceContentBody { 
+	max-width: 640px;
+}
+
+/* Text elements */
+a:link { 
+	color: #1155cc;
+}
+
+a:visited {
+	color: #660099;
+}
+
+a:hover {
+	color: #660099;
+}
+
+a:active {
+	color: #660099;
+}
+
+a img { 
+	border: none;
+	text-decoration: none;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted;
+	cursor: help;
+}
+
+blockquote {
+	font-style: italic;
+	quotes: none;
+}
+
+cite { 
+	font-style: italic;
+}
+
+code {
+	font-family: monospace, serif;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+dl {
+	margin: 0 0 20px 20px;
+	margin: 0 0 2rem 2rem;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin: 0 0 20px;
+	margin: 0 0 2rem;
+}
+
+em {
+	font-style: italic;
+}
+
+hr {
+	background: #eee;
+	border: none;
+	clear: both;
+	height: 1px;
+	margin: 20px 0;
+	margin: 2rem 0;
+}
+
+i {
+	font-style: italic;
+}
+
+ins {
+	background: #fff6bf;
+	text-decoration: none;
+}
+
+p {
+	margin: 0 0 10px;
+	margin: 0 0 1rem;
+}
+
+pre {
+	background: #eee;
+	font-family: monospace, serif;
+	line-height: 1;
+	margin-bottom: 1rem;
+	padding: 1rem;
+}
+
+sub {
+	top: 0.5ex;
+}
+
+sup,
+sub {
+	height: 0;
+	line-height: 1;
+	position: relative;
+	vertical-align: baseline;
+}
+
+sup {
+	bottom: 1ex;
+}
+
+ul,
+ol {
+	margin: 0 0 20px 20px;
+	margin: 0 0 2rem 2rem;
+	padding: 0;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+ol ol {
+	list-style: upper-alpha;
+}
+
+ol ol ol {
+	list-style: lower-roman;
+}
+
+ol ol ol ol {
+	list-style: lower-alpha;
+}
+
+/* Images: align */
+.alignleft { 
+	float: left;
+	margin: 5px 20px 10px 0;
+	margin: 0.5rem 2rem 1rem 0;
+}
+
+.alignright {
+	float: right;
+	margin: 5px 0 10px 20px;
+	margin: 0.5rem 0 1rem 2rem;
+}
+
+.aligncenter {
+	display: block;
+	margin:0 auto 10px;
+	margin:0 auto 1rem;
+}
+
+.alignnone {
+	display: inline-block;
+}
+
+img.wp-smiley,
+.rsswidget img {
+	-webkit-border-radius: 0;
+	-moz-border-radius:	   0;
+	border-radius:		   0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow:    none;
+	box-shadow:         none;	
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+/* Images: caption */
+.wp-caption {
+    max-width: 96%;
+    text-align: center;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+}
+
+.wp-caption-text {
+	font-size: 12px;
+	font-size: 1.2rem;
+	font-style: italic;
+	line-height: 1.5;
+	margin: 0;
+}

@@ -1,0 +1,157 @@
+# Translation of WPstart in French
+# This file is distributed under the same license as the WPstart package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-07-31 19:17+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: WPstart\n"
+"POT-Creation-Date: \n"
+"Last-Translator: krusze.pl <kontakt@krusze.pl>\n"
+"Language-Team: \n"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archives quotidiennes <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archives mensuelles <span>%s</span>"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archives annuelles <span>%s</span>"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Sidebar 1"
+msgstr "Colonne latérale 1"
+
+msgid "Sidebar 2"
+msgstr "Colonne latérale 2"
+
+msgid "Footer 1"
+msgstr "Pied de page 1"
+
+msgid "Footer 2"
+msgstr "Pied de page 2"
+
+msgid "Footer 3"
+msgstr "Pied de page 3"
+
+msgid "Footer 4"
+msgstr "Pied de page 4"
+
+msgid "Colophon"
+msgstr ""
+
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clef: %s"
+
+msgid "Protected Comments: Please enter your password to view comments."
+msgstr "Commentaires protégés : saisissez votre mot de passe pour accéder aux commentaires."
+
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Une réponse a %2$s"
+msgstr[1] "%1$s réponses a %2$s"
+
+msgid "Comments (RSS)"
+msgstr "Commentaires (RSS)"
+
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Commentaires plus anciens"
+
+msgid "Newer Comments &raquo;"
+msgstr "Commentaires plus récents &raquo;"
+
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+msgid "Navigation Menu"
+msgstr "Menu de navigation"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Tags:"
+msgstr "Mots-clefs:"
+
+msgid "Original dimensions"
+msgstr "Taille originale"
+
+msgid "Link to image"
+msgstr "Lier a l&rsquo;image"
+
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+msgid "Published on:"
+msgstr "Publié le :"
+
+msgid "Author:"
+msgstr "Auteur:"
+
+msgid "View posts by this author"
+msgstr "Afficher les articles de cet auteur"
+
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+msgid "% Comments"
+msgstr "% commentaires"
+
+msgid "&larr; Back to %s"
+msgstr "&larr; Retour sur %s"
+
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+msgid "Powered by WordPress"
+msgstr "Propulsé par WordPress"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Posts by %s"
+msgstr "Articles par %s"
+
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Vous parcourez actuellement les archives de la catégorie %s."
+
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultats de recherche pour &#8220;%s&#8221;"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Sorry, no posts matched your criteria."
+msgstr "Désolé, aucun article ne correspond à vos critères."
+
+msgid "Pages:"
+msgstr "Pages:"
+
+msgid "Permalink: "
+msgstr "Permalien:"
+
+msgid "&laquo; Previous"
+msgstr "&laquo; Précédent"
+
+msgid "Next &raquo;"
+msgstr "Suivant &raquo;"
+

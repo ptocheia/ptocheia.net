@@ -1,0 +1,157 @@
+# Translation of WPstart in Danish
+# This file is distributed under the same license as the WPstart package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-07-31 19:17+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: WPstart\n"
+"POT-Creation-Date: \n"
+"Last-Translator: krusze.pl <kontakt@krusze.pl>\n"
+"Language-Team: \n"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Dagsarkiv: <span>%s</span>"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Månedsarkiv: <span>%s</span>"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Årsarkiv: <span>%s</span>"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere indlæg <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ældre indlæg"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs resten <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Sidebar 1"
+msgstr "Sidebar 1"
+
+msgid "Sidebar 2"
+msgstr "Sidebar 2"
+
+msgid "Footer 1"
+msgstr "Footer 1"
+
+msgid "Footer 2"
+msgstr "Footer 2"
+
+msgid "Footer 3"
+msgstr "Footer 3"
+
+msgid "Footer 4"
+msgstr "Footer 4"
+
+msgid "Colophon"
+msgstr ""
+
+msgid "Tag Archives: %s"
+msgstr "Tag-arkiv: %s"
+
+msgid "Protected Comments: Please enter your password to view comments."
+msgstr "Beskyttede kommentarer: Skriv dit kodeord for at se kommentarer."
+
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Et svar til %2$s"
+msgstr[1] "%1$s svar til %2$s"
+
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+msgid "&laquo; Older Comments"
+msgstr "&laquo; &#230;ldre kommentarer"
+
+msgid "Newer Comments &raquo;"
+msgstr "Nyere kommentarer &raquo;"
+
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+msgid "Navigation Menu"
+msgstr "Navigationsmenu"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Tags:"
+msgstr "Tags:"
+
+msgid "Original dimensions"
+msgstr "Oprindeligt størrelsesforhold"
+
+msgid "Link to image"
+msgstr "Link til billede"
+
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+msgid "Published on:"
+msgstr "Udgivet:"
+
+msgid "Author:"
+msgstr "Forfatter:"
+
+msgid "View posts by this author"
+msgstr "Se indl&#230;g skrevet af denne bruger"
+
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+msgid "% Comments"
+msgstr "% kommentarer"
+
+msgid "&larr; Back to %s"
+msgstr "&larr; Tilbage til %s"
+
+msgid "Page not found"
+msgstr "Side ikke fundet"
+
+msgid "Powered by WordPress"
+msgstr "K&#248;res af WordPress"
+
+msgid "Content"
+msgstr "Indhold"
+
+msgid "Posts by %s"
+msgstr "Indl&#230;g skrevet af %s"
+
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Du kigger på arkiverne for kategorien %s."
+
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Søgeresultat for &#8220;%s&#8221;"
+
+msgid "Archives"
+msgstr "Arkiver"
+
+msgid "No posts found."
+msgstr "Ingen indl&#230;g fundet."
+
+msgid "Search"
+msgstr "S&#248;g"
+
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, men din søgning gav ingen resultater."
+
+msgid "Pages:"
+msgstr "Sider:"
+
+msgid "Permalink: "
+msgstr "Permalink: "
+
+msgid "&laquo; Previous"
+msgstr "&laquo; Tidligere"
+
+msgid "Next &raquo;"
+msgstr "N&#230;ste &raquo;"
+
